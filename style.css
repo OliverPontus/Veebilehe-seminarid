@@ -16,3 +16,20 @@ p {
     border: 10px solid #000;
 }
 
+.paks-p2is th {
+    font-weight: bold;
+    font-size: 18px;
+    color: #FF0000;
+}
+
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.twP1B5qkmKTLIHfkQRlprQHaEo?pid=ImgDet&rs=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
